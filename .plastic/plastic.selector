@@ -1,0 +1,4 @@
+repository "AA-oyunu-@simseksamih25@cloud"
+  path "/"
+    br "/main"
+    co "/main"
